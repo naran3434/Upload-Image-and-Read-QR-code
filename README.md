@@ -17,3 +17,7 @@
 
 #Body params
 1. name : filetoupload , type: file
+
+<pre>
+Note : sample image avaialble for testing "sample_image.jpg" 
+</pre>
